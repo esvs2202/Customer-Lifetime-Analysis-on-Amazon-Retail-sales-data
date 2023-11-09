@@ -2,9 +2,6 @@
 Problem: 
 Design a cost-efficient Data engineering solution (Data Warehouse) for analyzing the Customer Lifetime value from retail sales data of Amazon.
 
-Dataset link: 
-https://docs.google.com/spreadsheets/d/1Dg2jK3mrA8JYw417DS_CZ6jkeWMGfBlx/edit#gid=1579268976
-
 Architecture:
 ![image](https://github.com/esvs2202/Customer-Lifetime-Analysis-on-Amazon-Retail-sales-data/assets/22242325/f27a89d6-8a4a-4b95-9709-44c40c9574d8)
 
